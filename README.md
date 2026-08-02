@@ -1,2 +1,2 @@
 # git_course
-elzero web schoolbcourse
+elzero web school course
